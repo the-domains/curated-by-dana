@@ -1,7 +1,7 @@
 name: Curated by Dana
 favicon: null
 layout_spectrum: 0.314006905304268
-typography_spectrum: 0.0485121279489249
+typography_spectrum: 0.19309
 title: 'Curated by Dana - the future, one piece at a time'
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#524a13'
     - '#ac9d32'
     - '#f3c743'
-  brandStrength: 0.6875
+  brandStrength: 0.75
   lightness: 0.8225107127800584
   saturation: 0.9266913710162044
   rhythmicContrast: 0.3822246335912496
