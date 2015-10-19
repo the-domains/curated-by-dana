@@ -1,4 +1,4 @@
-name: null
+name: Curated by Dana
 favicon: null
 layout_spectrum: 0.314006905304268
 typography_spectrum: 0.0485121279489249
@@ -7,7 +7,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-69025744-1
   facebook: null
   twitter: null
 opengraph:
