@@ -4,8 +4,15 @@
         <description><![CDATA[Curated by Dana - the future, one piece at a time]]></description>
         <link>http://dotdana.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 13:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2015 13:42:58 GMT</lastBuildDate>
         <atom:link href="http://dotdana.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>self</p>]]></description>
+            <link>http://dotdana.com/self/index.html</link>
+            <guid isPermaLink="false">5083995b-45ce-463e-bb10-c466f4c0ad2e</guid>
+            <pubDate>Mon, 19 Oct 2015 13:42:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>expression</p>]]></description>
