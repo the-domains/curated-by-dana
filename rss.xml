@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Curated by Dana - the future, one piece at a time]]></title>
         <description><![CDATA[Curated by Dana - the future, one piece at a time]]></description>
-        <link>https://thegrid.ai/curated-by-dana/</link>
+        <link>http://dotdana.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 12:31:56 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/curated-by-dana/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 19 Oct 2015 13:42:24 GMT</lastBuildDate>
+        <atom:link href="http://dotdana.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>expression</p>]]></description>
+            <link>http://dotdana.com/expression/index.html</link>
+            <guid isPermaLink="false">955f233f-666c-4fc3-aba0-e3fa6a949388</guid>
+            <pubDate>Mon, 19 Oct 2015 13:41:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Economics of Using Uber in India, For Drivers, Passengers and the Company]]></title>
             <description><![CDATA[<article><h1>The Economics of Using Uber in India, For Drivers, Passengers and the Company</h1><p>I've been taking a lot of Ubers and Olas to work. More Uber than Ola , and I get phenomenal conversations because I can speak in Kannada, which is apparently a rare thing in Bangalore, looking at the number of drivers who seem to be delighted. The economics, from the driver's angle, is fascinating.</p><img src="http://2.gravatar.com/avatar/b33e3e44cf0e3857c92922f55bbfa7b6?s=72&d=identicon&r=g"></article>]]></description>
